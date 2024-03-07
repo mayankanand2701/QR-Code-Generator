@@ -1,0 +1,33 @@
+{
+  "name": "our-qr-generator",
+  "version": "1.0.0",
+  "description": "A simple, fast and customizable QR Code Generator written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankanand2701/QR-Code-Generator.git"
+  },
+  "keywords": [
+    "QR Code",
+    "QR Code Generator",
+    "Simple Qr Code Generator",
+    "qr",
+    "qr-code",
+    "qrcode",
+    "generator",
+    "Javascript"
+  ],
+  "author": "Mayank Anand",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mayankanand2701/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/mayankanand2701/QR-Code-Generator#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "qrcode": "^1.5.3"
+  }
+}
